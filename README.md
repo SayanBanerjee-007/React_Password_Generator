@@ -11,7 +11,13 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone https://github.com/SayanBanerjee-007/React-Password-Generator.git
+git clone https://github.com/SayanBanerjee-007/React_Background_Changer.git
+```
+
+Go to ./00-react-source-code:
+
+```bash
+cd ./00-react-source-code
 ```
 
 Installation of packages:
@@ -20,7 +26,7 @@ Installation of packages:
 npm i
 ```
 
-Go the URL:
+Goto the URL:
 
 > > http://localhost:3000
 
