@@ -11,7 +11,7 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone https://github.com/SayanBanerjee-007/React_Background_Changer.git
+git clone https://github.com/SayanBanerjee-007/React_Password_Generator.git
 ```
 
 Go to ./00-react-source-code:
